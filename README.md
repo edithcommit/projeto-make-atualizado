@@ -1,16 +1,22 @@
 HOME 🏠
 <img width="1337" height="626" alt="image" src="https://github.com/user-attachments/assets/15d82c5d-7a78-41ad-8069-ff2a59455362" />
 
-![image](https://github.com/user-attachments/assets/6e1ae7e5-afae-43db-86ea-4b645df39eb9)
-![image](https://github.com/user-attachments/assets/6114dc18-0952-447c-93e2-465411e64dce)
+<img width="1338" height="625" alt="image" src="https://github.com/user-attachments/assets/6cf0f7ad-6bef-4a5c-a4b7-6fff767bd129" />
+
+<img width="1332" height="595" alt="image" src="https://github.com/user-attachments/assets/d964ea9f-8036-4df0-a08a-c699767f4423" />
+
 
 Catálogo 🎀
-![image](https://github.com/user-attachments/assets/ba440233-61e9-447c-908e-3027d7dd0a20)
-![image](https://github.com/user-attachments/assets/3848ac49-f4b8-429f-9384-018fbb94b40d)
-![image](https://github.com/user-attachments/assets/ab128c28-996d-4612-b2a8-c1ccec11eab6)
+<img width="1335" height="619" alt="image" src="https://github.com/user-attachments/assets/7c5d4d21-6616-4ba2-b663-75569b7177ac" />
+
+<img width="1340" height="625" alt="image" src="https://github.com/user-attachments/assets/74686c7c-a98d-4f39-b4a8-6305a5107f5a" />
+
+<img width="1342" height="624" alt="image" src="https://github.com/user-attachments/assets/1ba56105-f648-491e-9d4f-4ddc3110e5c2" />
+
 
 Cadastro 👩‍💼
-![image](https://github.com/user-attachments/assets/9acc323d-a4b1-4ec5-acb0-7e07a2e09202)
+<img width="1341" height="626" alt="image" src="https://github.com/user-attachments/assets/2bad46f2-11ab-4949-b714-b32af57733e8" />
+
 
 Sucesso no cadastro ✅
 ![image](https://github.com/user-attachments/assets/eb593e7c-f516-41b9-a57a-3c467856864e)
